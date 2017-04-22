@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">MyListView</string>
+  <string name="refresh_last_time">最后刷新时间: %1$s</string>
+  <string name="release_refresh">松开刷新</string>
+  <string name="pull_refresh">下拉刷新</string>
+  <string name="refresh_data">刷新数据</string>
+  <string name="refreshing">正在刷新中...</string>
+  <string name="load_more">加载更多数据</string>
+</resources>
